@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+<title id="title">YHH-L · The signal workshop</title><desc id="desc">A midnight blue workshop console with a cyan oscilloscope waveform, radio dial and orange instrument details.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#132b3b"/></linearGradient>
+<linearGradient id="wave"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".3" stop-color="#5eead4"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#294356" stroke-width=".7"/></pattern>
+</defs>
+<rect x="1" y="1" width="1278" height="458" rx="24" fill="url(#bg)" stroke="#294052"/>
+<rect x="690" y="33" width="550" height="360" rx="18" fill="url(#grid)" opacity=".45"/>
+<path d="M32 76h1216" stroke="#243848"/><circle cx="43" cy="40" r="5" fill="#fb923c"/><circle cx="62" cy="40" r="5" fill="#334b60"/><circle cx="81" cy="40" r="5" fill="#334b60"/>
+<text x="105" y="45" fill="#93a9bc" font-family="monospace" font-size="13" letter-spacing="2">YHH-L / PERSONAL LAB</text>
+<text x="1043" y="45" fill="#5eead4" font-family="monospace" font-size="12" letter-spacing="2">OPEN WORKBENCH</text>
+<text x="53" y="126" fill="#fb923c" font-family="monospace" font-size="12" letter-spacing="4">HELLO, WORLD. CQ, WORLD.</text>
+<text x="48" y="233" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="108" letter-spacing="-7">yhh-l<tspan fill="#5eead4">_</tspan></text>
+<text x="54" y="288" fill="#d5e4ee" font-family="Arial, Helvetica, sans-serif" font-size="29">Small devices. Big possibilities.</text>
+<text x="55" y="327" fill="#8ca5b9" font-family="Arial, Helvetica, sans-serif" font-size="17">Embedded systems / Radio / Everyday tools</text>
+<g transform="translate(1000 234)" fill="none"><circle r="133" stroke="#324b60"/><circle r="109" stroke="#36566b" stroke-dasharray="1 13" stroke-width="9"/><circle r="83" stroke="#305367"/><circle r="46" stroke="#335a69"/><path d="M0-145v22M145 0h-22M0 145v-22M-145 0h22" stroke="#75b6bd" stroke-width="2"/><path d="M0 0L82-100" stroke="#5eead4" stroke-width="2"/><path d="M0 0L82-100A130 130 0 0 0 2-130Z" fill="#5eead4" opacity=".07"/><circle r="6" fill="#5eead4" stroke="#0c2230" stroke-width="3"/><circle cx="54" cy="-65" r="5" fill="#fb923c"/>
+</g>
+<path d="M700 239h40l14-19 20 38 22-80 24 111 23-50h28l16-22 20 40 21-18h230" fill="none" stroke="url(#wave)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="912" y="393" fill="#5e829b" font-family="monospace" font-size="10" letter-spacing="3">TUNE IN. BUILD SOMETHING.</text>
+<path d="M32 415h1216" stroke="#294052"/><text x="54" y="443" fill="#8ba5b9" font-family="monospace" font-size="11" letter-spacing="2">01 / BUILD</text><text x="258" y="443" fill="#8ba5b9" font-family="monospace" font-size="11" letter-spacing="2">02 / CONNECT</text><text x="485" y="443" fill="#8ba5b9" font-family="monospace" font-size="11" letter-spacing="2">03 / EXPERIMENT</text><text x="1131" y="443" fill="#fb923c" font-family="monospace" font-size="11">73 &amp; GL</text>
+</svg>
